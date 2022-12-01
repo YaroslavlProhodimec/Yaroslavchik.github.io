@@ -1144,13 +1144,13 @@ transition: all 0.3s ease 0s;
   margin: 0px 0px 12px 0px;
 }
 .contacts-footer__item_phone {
-  background: url(/img/footer/1.png) left no-repeat;
+  background: url(img/footer/1.png) left no-repeat;
 }
 .contacts-footer__item_map {
-  background: url(/img/footer/2.png) left no-repeat;
+  background: url(img/footer/2.png) left no-repeat;
 }
 .contacts-footer__item_email {
-  background: url(/img/footer/3.png) left no-repeat;
+  background: url(img/footer/3.png) left no-repeat;
 }
 .footer__bottom {
   padding: 25px 0px 25px 0px;
